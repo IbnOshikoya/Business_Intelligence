@@ -1,5 +1,6 @@
 # PowerBI
-This is a collection of all my work on business intelligence and data analysis using the Power BI platform.
+This is a collection of samples of my work on business intelligence and data analysis using the Power BI platform.
+
 Files containing analysis guide and dashboards can be found in folders on profile.
 
 ![Screenshot (256)](https://user-images.githubusercontent.com/69630002/163276686-aed498e2-6bc2-4849-847a-585c166af5c8.png)
