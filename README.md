@@ -2,6 +2,7 @@
 This is a collection of samples of my work on business intelligence and data analysis using the Power BI platform.
 
 Files containing analysis guide and dashboards can be found in folders on profile.
+Data sourced from Kaggle, data.world, data.gov, Google Dataset Search, Webscrapping...
 
 ![Screenshot (256)](https://user-images.githubusercontent.com/69630002/163276686-aed498e2-6bc2-4849-847a-585c166af5c8.png)
 ![Screenshot (253)](https://user-images.githubusercontent.com/69630002/163276753-733ab25f-6b27-4d54-9905-d34aedf6c121.png)
