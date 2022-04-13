@@ -1,9 +1,0 @@
-1. Cars with Highest and Lowest Prices -
-2. Ranking cars by body type 
-3. Count of Automatic and Manual Cars in Stock
-4. Count of cars by Year - 
-5. Average Warranty on Automatic or Manual 
-6. FWD, AWD, 2WD, RWD in stock per Year
-7. Average Miles Per Gallon Per Brand of Cars
-8. Total price of cars in stock - 
-9. Count of cars -
